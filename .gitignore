@@ -1,0 +1,8 @@
+# 忽略构建结果和签名私钥。
+**/bin/
+**/obj/
+**/build/
+local.properties
+*.p12
+*.jks
+*.keystore
